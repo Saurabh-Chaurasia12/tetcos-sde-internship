@@ -69,7 +69,7 @@ open-source UAV framework and enabling interaction via the NetSim–Python inter
 This work focused on system integration and mobility modeling within a simulation
 environment.
 
-![UAV Mobility Demo](assets/uav-mobility.gif)
+![UAV Mobility Demo](uav-mobility.gif)
 
 **Key Highlights**
 - Mobility-driven simulations
